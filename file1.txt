@@ -1,3 +1,5 @@
 login
 edit
 create
+update
+delete
