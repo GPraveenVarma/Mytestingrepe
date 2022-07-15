@@ -2,9 +2,8 @@ login
 edit
 create
 update
-
+delete
 unsort
-undelete
 
 
 
